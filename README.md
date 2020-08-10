@@ -3,7 +3,7 @@
 Sempre explorando as tecnologias e linguagens de programação.
 
 Desenvolvedor FullStack :computer:
-Formado pela ETEC Aristóteles Ferreira. 
+<br/>Formado pela ETEC Aristóteles Ferreira. 
 
  <br/> :email: &nbsp; Entre em contato comigo: 
  <br/><br/>
