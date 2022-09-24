@@ -1,8 +1,8 @@
 # Filipe Simon
 
-Sempre explorando as tecnologias e linguagens de programação.
+"Uma classe ou uma função só deve ter uma atribuição"
 
-Desenvolvedor FullStack :computer:
+Atualmente trabalhando como desenvolvedor back-end :computer:
 <br/>Formado pela ETEC Aristóteles Ferreira. 
 
  <br/> :email: &nbsp; Entre em contato comigo: 
