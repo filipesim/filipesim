@@ -1,9 +1,8 @@
 # Filipe Simon
 
-"Uma classe ou uma função só deve ter uma atribuição"
+"Talk is cheap. Show me the code."
 
 Atualmente trabalhando como desenvolvedor back-end :computer:
-<br/>Formado pela ETEC Aristóteles Ferreira. 
 
  <br/> :email: &nbsp; Entre em contato comigo: 
  <br/><br/>
