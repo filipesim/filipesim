@@ -1,8 +1,18 @@
 # Filipe Simon
 
-"Talk is cheap. Show me the code."
+Apaixonado por tecnologi... hahaha brincadeira... vou tentar não ser tão clichê.
 
-Atualmente trabalhando como desenvolvedor back-end :computer:
+Trabalho como programador há pelo menos 7 anos. Antes disso já fui marceneiro, pintor e algumas coisas mais… acho que tudo isso me tornou bem adaptável.
+
+Já refatorei muito código e resolvi muito bug cascudo em WarRoom. Automatizei muita tarefa repetitiva e melhorei o tempo de resposta de muito serviço demorado.
+
+Conheço muito de PHP (Laravel, CakePHP), banco de dados (SQLServer, Postgres, MySQL), servidores Linux, GIT e Docker. Também um pouco de C#, dotnet, RabbitMQ e Azure.
+
+Ando escrevendo uns artigos no TabNews.
+https://tabnews.com.br/filipesimon
+
+E estudando sobre segurança, performance/desempenho e DevOps.
+https://github.com/filipesim
 
  <br/> :email: &nbsp; Entre em contato comigo: 
  <br/><br/>
