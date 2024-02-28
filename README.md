@@ -1,6 +1,6 @@
 # Filipe Simon
 
-Apaixonado por tecnologi... hahaha brincadeira... vou tentar não ser tão clichê.
+Apaixonado por tecnologi... hahaha calma... vou tentar não ser tão clichê.
 
 Trabalho como programador há pelo menos 7 anos. Antes disso já fui marceneiro, pintor e algumas coisas mais… acho que tudo isso me tornou bem adaptável.
 
