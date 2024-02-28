@@ -12,7 +12,6 @@ Ando escrevendo uns artigos no TabNews.
 https://tabnews.com.br/filipesimon
 
 E estudando sobre segurança, performance/desempenho e DevOps.
-https://github.com/filipesim
 
  <br/> :email: &nbsp; Entre em contato comigo: 
  <br/><br/>
